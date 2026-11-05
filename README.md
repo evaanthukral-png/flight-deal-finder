@@ -80,3 +80,9 @@ See `.env.example` for the required variable names:
 - API response formats, account permissions, and service pricing/limits may change.
 - The current search settings in `main.py` use London Heathrow (`LHR`) as the origin and search dates starting tomorrow through roughly six months ahead.
 - SMS alerts require a properly configured Twilio account and verified recipient where applicable.
+
+## Author
+
+```bash
+Evaan
+```
